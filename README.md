@@ -20,6 +20,7 @@ For iOS, also install the Cocoapods
 ```sh
 $ cd ios
 $ pod install
+$ cd ..
 ```
 
 Then build and run with `npx react-native run-ios`.
