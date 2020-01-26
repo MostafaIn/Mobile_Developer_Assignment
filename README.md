@@ -3,7 +3,7 @@
 I have done this assignment for NeverThink with using React Native.
 
 ## Preview
-![preview](ScreenRecording.mov)
+![preview](screenshot.png)
 
 
 ## Running the project
